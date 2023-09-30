@@ -34,37 +34,6 @@ main {
     justify-content: space-between;
 }
 
-.login-form {
-    text-align: center;
-}
-
-.login-form h2 {
-    margin-bottom: 20px;
-}
-
-.login-form label {
-    display: block;
-    margin-bottom: 10px;
-}
-
-.login-form input {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 20px;
-}
-
-.login-form button {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-}
-
-.login-form p {
-    margin-top: 10px;
-}
-
 .product {
     background-color: #fff;
     padding: 20px;
